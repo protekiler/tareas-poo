@@ -1,0 +1,10 @@
+
+try{
+    //codigo que podria lanzar una excepcion
+    }Catch(ExceptionType1 exceptionVariable1){
+        //codigo para manejar la excepcion de tipo ExceptionType1
+    }Catch(ExceptionType2 exceptionVariable2){
+        //codigo para manejar la excepcion de tipo ExceptionType1
+    }finally{
+        //Siempre se ejecuta, incluso si se lanza o no una excepcion
+    }
